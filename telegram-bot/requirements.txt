@@ -1,0 +1,10 @@
+# Ravon AI Telegram Bot uchun kerakli kutubxonalar
+
+# Telegram bot framework
+python-telegram-bot==20.7
+
+# HTTP so'rovlar uchun
+requests==2.31.0
+
+# Environment variables uchun (ixtiyoriy)
+python-dotenv==1.0.0
